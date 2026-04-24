@@ -1,4 +1,4 @@
-# 🎨 CSS Grid Layout - Ejercicio Práctico
+# 🎨 CSS Grid Master - Aprende Grid de Forma Práctica
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-*Aprende CSS Grid de forma práctica y visual*
+*Master CSS Grid de cero a experto*
 
 </div>
 
@@ -15,15 +15,16 @@
 
 ## 📚 Descripción
 
-Este repositorio contiene un ejercicio práctico de **CSS Grid Layout** para aprender a crear layouts modernos y responsivos usando las mejores prácticas de desarrollo web.
+Este repositorio te帮助你Dominar **CSS Grid Layout** desde lo básico hasta técnicas avanzadas. Perfecto para estudiantes que quieren crear layouts profesionales y responsivos.
 
 ### 🎯 Lo que aprenderás
 
-- ✅ Crear layouts con CSS Grid
+- ✅ Fundamentos de CSS Grid
+- ✅ Propiedades de contenedor e items
 - ✅ Usar `auto-fit`, `minmax`, `fr` 
-- ✅ Make it responsive
+- ✅ Make it responsive (mobile-first)
 - ✅ Animaciones y efectos interactivos
-- ✅ Buenas prácticas de CSS
+- ✅ Buenas prácticas de desarrollo
 
 ---
 
@@ -33,26 +34,26 @@ Este repositorio contiene un ejercicio práctico de **CSS Grid Layout** para apr
 |---------------|-------------|
 | 📱 Responsive | Se adapta a cualquier pantalla |
 | 🎬 Animaciones | Efectos hover suaves |
-| ♿ Accesible | Estructura semántica |
+| ♿ Accesible | Estructura semántica HTML |
 | 🎨 Moderno | CSS con variables |
-| ⚡ Rápido | Sin dependencias |
+| ⚡ Rápido | Sin dependencias externas |
 
 ---
 
-## 💻 Vista Previa
+## 💻 Vista Previa del Grid
 
 <div align="center">
 
 ```
 ┌─────────┬─────────┬─────────┬─────────┐
 │  🎨     │  📱    │  ⚡     │  🎯    │
-│ Diseño  │Responsive│Rápido  │Preciso │
+│ Grid 1  │ Grid 2 │ Grid 3 │ Grid 4 │
 ├─────────┼─────────┼─────────┼─────────┤
 │  🎨     │  📱    │  ⚡     │  🎯    │
-│Diseño 2 │Respon 2 │Rápido 2│Preciso 2│
+│ Grid 5  │ Grid 6 │ Grid 7 │ Grid 8 │
 ├─────────┼─────────┼─────────┼─────────┤
 │  🎨     │  📱    │  ⚡     │  🎯    │
-│Diseño 3 │Respon 3 │Rápido 3│Preciso 3│
+│ Grid 9  │Grid10 │Grid11 │Grid12 │
 └─────────┴─────────┴─────────┴─────────┘
 ```
 
@@ -60,7 +61,7 @@ Este repositorio contiene un ejercicio práctico de **CSS Grid Layout** para apr
 
 ---
 
-## 🛠️ Tecnologías
+## 🛠️ Tecnologías Usadas
 
 <div align="center">
 
@@ -74,42 +75,42 @@ Este repositorio contiene un ejercicio práctico de **CSS Grid Layout** para apr
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/sebas0814s/Grid_layout_ejercicios_practicos.git
+git clone https://github.com/sebas0814s/CSS-Grid-Master.git
 
-# Abre el archivo en tu navegador
-cd Grid_layout_ejercicios_practicos
+# Abre en tu navegador
+cd CSS-Grid-Master
 open index.html
-# o simplemente arrastra index.html a tu navegador
+# o arrastra index.html a tu navegador
 ```
 
 ---
 
-## 🎮 Interactivo
+## 🎮 Ejemplos Interactivos
 
-- **Click** en las cards para ver info en consola
-- **Hover** para ver efectos animados
-- **Resize** la ventana para ver el responsive
+- **Click** en las cards para ver info en consola del navegador
+- **Hover** para ver efectos animados suaves
+- **Resize** la ventana para ver el comportamiento responsive
 
 ---
 
-## 📁 Estructura
+## 📁 Estructura del Proyecto
 
 ```
-Grid_layout_ejercicios_practicos/
-├── index.html    # Estructura HTML
+CSS-Grid-Master/
+├── index.html    # Estructura principal
 ├── style.css     # Estilos CSS Grid
 ├── evento.js     # JavaScript interactivo
-└── README.md    # Este archivo
+└── README.md    # Documentación
 ```
 
 ---
 
-## 🤝 Contribuir
+## 🤝 Cómo Contribuir
 
 1. **Fork** este repositorio
-2. Crea una rama `git checkout -b mi-cambio`
-3. **Commit** tus cambios `git commit -m 'Mi cambio'`
-4. **Push** a GitHub `git push origin mi-cambio`
+2. Crea tu rama: `git checkout -b mi-cambio`
+3. **Commit** tus cambios: `git commit -m 'Descripción'`
+4. **Push**: `git push origin mi-cambio`
 5. Abre un **Pull Request**
 
 ---
@@ -124,7 +125,7 @@ Grid_layout_ejercicios_practicos/
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/guti0814)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sebas0814s@gmail.com)
 
-*Estudiante de Desarrollo de Software*
+*Estudiante de Desarrollo de Software | 🎓*
 
 </div>
 
@@ -132,7 +133,7 @@ Grid_layout_ejercicios_practicos/
 
 ## 📝 Licencia
 
-MIT License - feel free to use this for learning! 
+MIT License - ¡Úsalo libremente para aprender! 
 
 ---
 
@@ -140,6 +141,6 @@ MIT License - feel free to use this for learning!
 
 ⭐️ *Si te sirve, dale una estrella!* ⭐️
 
-*Made with ❤️ for learning CSS Grid*
+*Hecho con ❤️ para aprender CSS Grid*
 
 </div>
